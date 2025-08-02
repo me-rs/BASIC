@@ -117,4 +117,4 @@ print("\033[1;33m")
 os.system("pkg install toilet")
 
 print("\033[1;36m")
-print("All package installef successfully!"
+print("All package installef successfully!")
